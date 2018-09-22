@@ -1,0 +1,17 @@
+C:\Users\rkrishnan\source\repos\hotels\hotels\bin\hotels.dll.config
+C:\Users\rkrishnan\source\repos\hotels\hotels\bin\hotels.dll
+C:\Users\rkrishnan\source\repos\hotels\hotels\bin\hotels.pdb
+C:\Users\rkrishnan\source\repos\hotels\hotels\bin\Cassandra.dll
+C:\Users\rkrishnan\source\repos\hotels\hotels\bin\LZ4.dll
+C:\Users\rkrishnan\source\repos\hotels\hotels\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rkrishnan\source\repos\hotels\hotels\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rkrishnan\source\repos\hotels\hotels\bin\Microsoft.Extensions.Logging.dll
+C:\Users\rkrishnan\source\repos\hotels\hotels\bin\Cassandra.xml
+C:\Users\rkrishnan\source\repos\hotels\hotels\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\rkrishnan\source\repos\hotels\hotels\bin\Microsoft.Extensions.Logging.xml
+C:\Users\rkrishnan\source\repos\hotels\hotels\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\rkrishnan\source\repos\hotels\hotels\obj\Debug\hotels.csprojAssemblyReference.cache
+C:\Users\rkrishnan\source\repos\hotels\hotels\obj\Debug\hotels.csproj.CoreCompileInputs.cache
+C:\Users\rkrishnan\source\repos\hotels\hotels\obj\Debug\hotels.csproj.CopyComplete
+C:\Users\rkrishnan\source\repos\hotels\hotels\obj\Debug\hotels.dll
+C:\Users\rkrishnan\source\repos\hotels\hotels\obj\Debug\hotels.pdb

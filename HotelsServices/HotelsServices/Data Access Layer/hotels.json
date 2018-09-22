@@ -1,0 +1,22 @@
+﻿[
+  {
+    "id": 1,
+    "name": "Hyatt",
+    "amenities": [
+      "Parking",
+      "Free Wifi",
+      "Swimming Pool"
+    ],
+    "address": "Viman Nagar"
+  },
+  {
+    "id": 2,
+    "name": "Novotel",
+    "amenities": [
+      "Parking",
+      "Free Wifi",
+      "Gym"
+    ],
+    "address": "Viman Nagar"
+  }
+]
